@@ -1,6 +1,7 @@
 # KotlinTodolist
 A simple kotlin todolist app 
 It's just used for practicing Kotlin
+Really Really simple
 
 
 
